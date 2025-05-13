@@ -1,0 +1,223 @@
+
+.background-wrapper {
+    position: relative;
+    overflow: hidden;
+}
+
+.background-img {
+    margin: 0;
+    width: 110%;
+    height: auto;
+    position: absolute;
+    z-index: -1;
+    top: 0;
+}
+
+body {
+    font-size: 24px;
+    color: var(--purple);
+}
+
+.home-content {
+    margin-left: 4%;
+    margin-top: 9%;
+    margin-left: 80px;
+    position: relative;
+    margin-bottom: 10%;
+}
+
+.home-content > article > h1 {
+    margin-left: 60px;
+}
+
+.logo {
+    position: absolute;
+    width: 85px;
+    margin-left: -95px;
+    margin-top: -15px;
+}
+
+h1 {
+    height: 50px;
+    margin-bottom: 0;
+}
+
+h4 {
+    color: var(--grey-blue);
+    font-size: 16px;
+    margin-left: 65px;
+    margin-top: 0;
+    margin-bottom: 40px;
+}
+
+a {
+    color: var(--grey-blue);
+}
+
+a:hover {
+    color: var(--orange);
+}
+
+.about-article {
+    top: 100%;
+    padding-top: 70px;
+    width: 50%;
+    margin: auto;
+    margin-bottom: 100px;
+}
+
+.about-article > h3 {
+    text-align: center;
+}
+
+.about-article > p {
+    color: var(--grey-blue);
+}
+
+.return-anchor > h3 {
+    text-align: center;
+    transform: rotate(90deg);
+}
+
+.about-media {
+    width: 80%;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.about-media > div {
+    width: 100%;
+    display: flex;
+}
+
+.about-media > div > img, .about-media > div > video, iframe{
+    width: 48%;
+    margin: 1%;
+}
+
+#map-row > video {
+    top: 0;
+}
+
+@media only screen and (max-width: 900px) {
+
+    .background-wrapper {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .background-wrapper > img{
+        height: 500px;
+        object-fit: cover;
+        object-position: left;
+    }
+
+    body {
+        font-size: 22px;
+    }
+
+    .about-article {
+        top: 100%;
+        padding-top: 70px;
+        width: 70%;
+        margin: auto;
+        margin-bottom: 100px;
+    }
+
+    .about-media > div {
+        display: inline;
+    }
+
+    .about-media > div > img, .about-media > div > video, iframe{
+        width: 100%;
+        margin: 0;
+        margin-bottom: 10px;
+    }
+
+    #map-row > iframe {
+        height: 400px;
+    }
+  }
+
+  @media only screen and (max-width: 550px) {
+
+    body {
+        font-size: 18px;
+    }
+
+    .background-wrapper > img{
+        height: 500px;
+        object-position: 30% 50%;
+    }
+
+    .home-content > article > a > h5 {
+        margin-bottom: 50px;
+        font-size: 20px;
+    }
+
+   
+  }
+
+  @media only screen and (max-width: 450px) {
+
+    body {
+        font-size: 15px;
+    }
+
+    .home-content > article > h1 {
+        margin-left: 30px;
+    }
+
+    .logo {
+        position: absolute;
+        width: 65px;
+        margin-left: -75px;
+        margin-top: -10px;
+    }
+
+    .background-wrapper > img{
+        height: 500px;
+        object-position: 30% 50%;
+    }
+
+    h4 {
+        margin-top: -12px;
+        margin-left: 35px;
+    }
+
+    .home-content > article > a > h5 {
+        margin-bottom: 50px;
+        font-size: 19px;
+    }
+
+  }
+
+  @media only screen and (max-width: 380px) {
+
+    body {
+        font-size: 13px;
+    }
+
+    .home-content > article > h1 {
+        margin-left: 20px;
+    }
+
+    .logo {
+        position: absolute;
+        width: 45px;
+        margin-left: -55px;
+        margin-top: -10px;
+    }
+
+    h4 {
+        margin-top: -16px;
+        margin-left: 25px;
+        font-size: 14px;
+    }
+
+    .home-content > article > a > h5 {
+        margin-bottom: 50px;
+        font-size: 16px;
+    }
+
+  }

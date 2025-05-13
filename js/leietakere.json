@@ -1,0 +1,116 @@
+{
+  "businesses": [
+    {
+      "name": "SpareBank 1 SR-Bank",
+      "location": "1. et.",
+      "website": "https://www.sparebank1.no/nb/sr-bank",
+      "info": "",
+      "logosrc": "sr_bank.png"
+    },
+    {
+      "name": "SpareBank 1 SR-Bank Forretningspartner",
+      "location": "1. et.",
+      "website": "https://www.sparebank1.no/nb/sr-bank/bedrift/regnskap/regnskapsbyra.html",
+      "info": "",
+      "logosrc": "sr_bank.png"
+    },
+    {
+      "name": "EiendomsMegler 1",
+      "location": "1. et.",
+      "website": "https://www.eiendomsmegler1.no",
+      "info": "",
+      "logosrc": "n_eiendomsmegler.png"
+    },
+    {
+      "name": "Atelier Kari Veasted",
+      "location": "3. et.",
+      "website": "https://www.kariveastad.com/",
+      "info": "",
+      "logosrc": "Kari_Veastad.svg"
+    },
+    {
+      "name": "Atelier Marie Svardal Brattebø",
+      "location": "3. et.",
+      "website": "https://www.facebook.com/p/Marie-Svardal-Bratteb%C3%B8-KUNST-100063559384645/",
+      "info": "",
+      "logosrc": ""
+    },
+    {
+      "name": "Camilla Løken Hill",
+      "location": "3. et.",
+      "website": "https://www.norskekunsthandverkere.no/kunstnerregister/camilla-l-hill",
+      "info": "",
+      "logosrc": ""
+    },
+    {
+      "name": "CrossFight Academy/Heat Fitness",
+      "location": "3. et.",
+      "website": "https://www.facebook.com/crossfightacademynorway",
+      "info": "",
+      "logosrc": "crossfight.png"
+    },
+    {
+      "name": "Heat Fitness",
+      "location": "2. et.",
+      "website": "https://www.heatfitness.club",
+      "info": "",
+      "logosrc": "heatfitness.webp"
+    },
+    {
+      "name": "Sola Begravelsesbyrå",
+      "location": "2. et.",
+      "website": "https://hviding.no",
+      "info": "",
+      "logosrc": "hviding_logo.png"
+    },
+    {
+      "name": "Solabladet",
+      "location": "2. et.",
+      "website": "https://www.solabladet.no",
+      "info": "",
+      "logosrc": "solabladet.png"
+    },
+    {
+      "name": "Soladoktoren",
+      "location": "1. et.",
+      "website": "https://solamedisinske.no",
+      "info": "",
+      "logosrc": ""
+    },
+    {
+      "name": "Easy Block",
+      "location": "U et.",
+      "website": "",
+      "info": "Tlf: +47 9131661<br>Epost: erikne@online.no",
+      "logosrc": ""
+    },
+    {
+      "name": "Florya Frisør",
+      "location": "1. et.",
+      "website": "https://www.facebook.com/floryasola",
+      "info": "",
+      "logosrc": "florya_frisør_logo.png"
+    },
+    {
+      "name": "Jeanettes Fotklinikk Aut. Fotterapeut",
+      "location": "U et.",
+      "website": "https://www.facebook.com/profile.php?id=100033575541247",
+      "info": "",
+      "logosrc": "jeanettes_fotpleieklinikk.png"
+    },
+    {
+      "name": "Låsemester Hveding",
+      "location": "U et.",
+      "website": "https://www.beh.no",
+      "info": "",
+      "logosrc": "hveding_logo.png"
+    },
+    {
+      "name": "Price Waterhouse Coopers",
+      "location": "U et. arkiv",
+      "website": "https://www.pwc.no",
+      "info": "",
+      "logosrc": "PwC.png"
+    }
+  ]
+}

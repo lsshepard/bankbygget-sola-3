@@ -1,0 +1,94 @@
+h1 {
+    text-align: center;
+    color: var(--purple);
+    margin-top: 12%;
+}
+
+#properties-wrapper {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    color: var(--grey-blue)
+}
+
+.property-wrapper {
+    width: 80%;
+    margin: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.small-image {
+    cursor: pointer;
+    height: 120px;
+    margin: 5px;
+}
+
+.row-wrapper {
+    display: flex;
+    height: 500px;
+    margin-bottom: 10px;
+}
+
+.row-wrapper > article {
+    width: 40%;
+    margin-left: 2px;
+    margin-right: 5%;
+    margin-top: 30px;
+    height: 100%;
+    position: relative;
+}
+
+.row-wrapper > img {
+    height: 80%;
+    margin: auto;
+}
+
+.instruction-paragraph {
+    position: absolute;
+    bottom: 50px;
+}
+
+@media only screen and (max-width: 1200px) {
+
+    .row-wrapper {
+        height: 450px;
+    }
+
+    .row-wrapper > img {
+        height: 60%;
+    }
+    
+}
+
+@media only screen and (max-width: 800px) {
+    .row-wrapper > img, .instruction-paragraph {
+        display: none;
+    }
+
+    .row-wrapper > article {
+        width: 100%;
+    }
+
+    .row-wrapper {
+        height: auto;
+        margin-bottom: 40px;
+    }
+
+    .images-wraper {
+        font-display: block;
+    }
+
+    .small-image {
+        width: 100%;
+        margin: auto;
+        display: block;
+        height: auto;
+        margin-top: 20px;
+    }
+
+    h1 {
+        font-size: 25px;
+    }
+    
+}

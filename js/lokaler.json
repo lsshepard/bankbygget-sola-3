@@ -1,0 +1,28 @@
+{
+  "properties": [
+    {
+      "title": "Første etasje:",
+      "paragraph": "Brutto 200 kvadratmater i første etasje. Innredet som legesenter med tre legekontor, kjøkken med spiseplass, venterom, behandlingsrom, resepsjon, laboratorium og baderom. Interiør og teknisk standard fra 2015",
+      "folder": "et1",
+      "imagesCount": 21
+    },
+    {
+      "title": "Andre etasje:",
+      "paragraph": "Brutto 200 kvadratmater i andre etasje. Innredet med 5 kontorer, foajé med te-kjøkken og eget toalett. Ventilasjon med kjøling. Arealet kan tilpasses leietakers behov.",
+      "folder": "et2",
+      "imagesCount": 15
+    },
+    {
+      "title": "Tredje etasje:",
+      "paragraph": "Brutto 375 kvadratmeter. Studio/atelier, 2 arbeidsrom og kjøkken. Kan tilpasses til leietakers behov. Heis.",
+      "folder": "et3",
+      "imagesCount": 13
+    },
+    {
+      "title": "Underetasje",
+      "paragraph": "Brutto 26 kvadratmeter. Lager/verksted. Direkte adgang fra bakkenivå.",
+      "folder": "et0",
+      "imagesCount": 2
+    }
+  ]
+}
